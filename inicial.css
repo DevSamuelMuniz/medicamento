@@ -123,3 +123,14 @@ h1{
     justify-content: center;
     gap: 15%;
 }
+
+#square{
+    position: fixed;
+    width: 14%;
+    height: 6.4%;
+    left: 7.3%;
+    
+    z-index: -1;
+    background: #476447;    
+    
+}
